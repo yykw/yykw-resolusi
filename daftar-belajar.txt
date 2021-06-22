@@ -1,4 +1,6 @@
 Daftar Belajar
 -Web
+  *javascript
+  *Github
 -Python
 -english
