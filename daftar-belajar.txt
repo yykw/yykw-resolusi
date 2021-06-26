@@ -1,7 +1,13 @@
 Daftar Belajar
 -Web
   *javascript
+    ^ ES6
+    ^ Framework
+       # vue
+       # react
   *Github
 -Korean
 -Python
+  *Eclat
 -english
+-PHP
