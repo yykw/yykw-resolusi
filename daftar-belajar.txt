@@ -1,10 +1,12 @@
 Daftar Belajar
 -Web
   *javascript
-    ^ES6
-    ^Framework
-      # Angular
-      # React
+    ^ ES6
+    ^ Framework
+       # vue
+       # react
   *Github
 -Python
+  *Eclat
 -english
+-PHP
