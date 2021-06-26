@@ -6,7 +6,6 @@ Daftar Belajar
        # vue
        # react
   *Github
--Korean
 -Python
   *Eclat
 -english
