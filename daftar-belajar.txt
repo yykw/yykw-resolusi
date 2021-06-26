@@ -3,6 +3,8 @@ Daftar Belajar
   *javascript
     ^ ES6
     ^ Framework
+       # vue
+       # react
   *Github
 -Korean
 -Python
