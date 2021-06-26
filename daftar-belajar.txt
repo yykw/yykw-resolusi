@@ -2,5 +2,6 @@ Daftar Belajar
 -Web
   *javascript
   *Github
+-Korean
 -Python
 -english
