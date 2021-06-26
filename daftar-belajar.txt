@@ -1,7 +1,11 @@
 Daftar Belajar
 -Web
   *javascript
+    ^ ES6
+    ^ Framework
   *Github
 -Korean
 -Python
+  *Eclat
 -english
+-PHP
